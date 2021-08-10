@@ -1,0 +1,27 @@
+.textRegister{
+    font-family: "Quicksand-Regular" !important;
+}
+.titleRegister{
+    font-family: "Quicksand-Bold" !important;
+    color: rgb(169, 90, 48);
+}
+.buttonRegister{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Medium" !important;
+    border: 2px solid white; 
+    color: white;
+    padding: 2%;
+    width:100%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+    margin-right: 2%;
+}
+.buttonRegister:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.subTitleRegister{
+    font-family: "Quicksand-Medium" !important;
+    color:rgb(169, 90, 48);
+}

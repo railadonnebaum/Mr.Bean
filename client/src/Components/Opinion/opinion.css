@@ -1,0 +1,57 @@
+.opinionTitle{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:  rgb(169, 90, 48);
+    color: white;
+    text-align: center;
+    font-size: 180%;
+    font-weight: bold;
+    font-family: "Quicksand-Regular" !important;
+}
+.divOpinion{
+    margin-left: 17%;
+}
+.inputOpinion{
+    width: 100%;
+}
+.buttonAddYourOpinion{
+    background-color: rgb(169, 90, 48);
+    color: white;
+    margin-top: 4%;
+    width: 70% !important;
+    height: 10% !important;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 120%;
+    border: 2px solid white; 
+    font-family: "Quicksand-Regular" !important;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+}
+.buttonAddYourOpinion:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48);
+    cursor: pointer;
+}
+.buttonOpinion{
+    background-color: rgb(169, 90, 48);
+    color: white;
+    margin-top: 4%;
+    width: 100% !important;
+    height: 10% !important;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 120%;
+    border: 0px solid white;
+    font-family: "Quicksand-Regular" !important;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+}
+.buttonOpinion:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}

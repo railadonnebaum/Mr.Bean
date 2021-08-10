@@ -1,0 +1,110 @@
+.accountDiv{
+    border: 1px solid black;
+    width: 40%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+.accountTitle{
+   font-family: "Quicksand-Bold" !important;
+   margin-bottom: 2%;
+
+}
+.accountIcon{
+    margin-left: 27%;
+    font-size: 260%;
+    color: rgb(169, 90, 48);
+}
+.accountBoddy{
+    white-space: pre-wrap;
+    margin-left:10% ;
+}
+.labelAccount{
+    font-family: "Quicksand-Medium" !important;
+}
+.subtitleAccount{
+    font-family: "Quicksand-Medium" !important;
+    margin-top: -3%;
+    margin-left: -1%
+}
+.buttonSave{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+    width:15%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+    margin:1.5%;
+    border: 2px solid white; 
+}
+.buttonSave:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.editButton{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    border: 0px solid white;
+    color: white;
+    padding: 2%;
+    width:18%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+    margin-left: 63%;
+}
+.editButton:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.deleteButton{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    border: 0px solid white;
+    color: white;
+    padding: 2%;
+    margin-top: 2%;
+    width:96%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+}
+.deleteButton:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.loginButton{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    border: 0px solid white;
+    color: white;
+    padding: 2%;
+    width:96%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+}
+.registerButton{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    border: 0px solid white;
+    color: white;
+    padding: 2%;
+    width:96%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+}
+.loginButton:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.registerButton:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.editLabel{
+    margin-left: 10%;
+}

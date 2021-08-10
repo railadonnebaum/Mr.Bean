@@ -1,0 +1,29 @@
+
+.number{
+  font-size: 156px;
+  color: red;
+  margin-left: 26%;
+  margin-top: 12%;
+}
+.errorTitle{
+    font-size: 25px;
+    color: red;
+    margin-left: 25%;
+}
+.errorButton{
+    width: 20%;
+    border-radius: 65px;
+    background: #ffffff;
+    box-shadow:  25px 25px 50px #fcfcfc,
+             -25px -25px 50px #ffffff;
+    color: red;
+    margin-left: 25%;
+    margin-top: 1%;
+    border: red 2px solid;
+}
+.errorButton:hover{
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  border: white 2px solid;
+}

@@ -1,0 +1,27 @@
+.faq{
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-bottom: 2%;
+   font-family: "Quicksand-Regular" !important;
+}
+.faqTitle{
+   color: rgb(169, 90, 48);
+   font-size: 120%;
+}
+.linkFAQ{
+   background-color: rgb(169, 90, 48) ;
+   color: white !important;
+   font-family: "Quicksand-Regular" !important;
+   border: 0px solid ;
+   font-size: 145%;
+   text-align: center;
+   margin-top: 2%;
+   padding-top: 0.5%;
+   padding-bottom: 0.5%;
+}
+.linkFAQ:hover{
+   background-color: white !important;
+   color: rgb(169, 90, 48) !important;
+   border: 2px solid rgb(169, 90, 48) !important; 
+   cursor: pointer;
+}

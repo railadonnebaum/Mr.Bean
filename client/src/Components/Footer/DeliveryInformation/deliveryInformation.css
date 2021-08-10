@@ -1,0 +1,14 @@
+.deliveryInformationBody{
+    margin-left: 12%;
+    margin-right: 11% ;
+    font-family: "Quicksand-Regular" !important;
+}
+.deliveryTitle{
+    font-size: 150%;
+    font-family: "Quicksand-Bold" !important;
+    color: rgb(169, 90, 48)
+}
+.deliverySubTitle{
+    font-family: "Quicksand-Medium" !important;
+    color: rgb(169, 90, 48)
+}

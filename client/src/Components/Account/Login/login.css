@@ -1,0 +1,26 @@
+.loginDiv{
+    width: 35%;
+    padding: 2%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%);
+    margin-left: 35%;
+    margin-bottom: 5%;
+}
+.loginButton{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    color: white;
+    padding: 2%;
+    width:96.5%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+    margin:1.5%;
+    border: 2px solid white; 
+}
+.loginButton:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.head{
+    margin-bottom: 8% !important;
+}

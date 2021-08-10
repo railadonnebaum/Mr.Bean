@@ -1,0 +1,72 @@
+.headingContactUS{
+    margin-left: 7%;
+}
+.title{
+    margin-top: 1%;
+}
+.labelContact{
+    margin-left: 5% !important;
+    margin-top: 1%;
+    font-size: 140%;
+}
+.IconContactUS{
+     margin-top: 1%;
+     margin-right: 2%;
+}
+.contactUsTitle{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:  rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    color: white;
+    text-align: center;
+    font-size: 180%;
+    font-weight: bold;
+}
+.divContactUs{
+    width: 115% !important;
+    font-size: 77%;
+}
+.inputContactUs{
+    width: 118%;
+    margin-bottom: 5%;
+}
+input{
+    border-bottom: 2px solid rgb(169, 90, 48);
+    border-top: 0px solid !important;
+    border-right: 0px solid !important;
+    border-left: 0px solid !important;
+}
+input::after, input:focus{
+    border-bottom: 2px solid rgb(169, 90, 48);
+    border-top: 0px solid !important;
+    border-right: 0px solid !important;
+    border-left: 0px solid !important;
+}
+textarea{
+    border-bottom: 2px solid rgb(204, 150, 122);
+    border-top: 0px solid !important;
+    border-right: 0px solid !important;
+    border-left: 0px solid !important;
+}
+.buttonContactUs{
+    background-color: rgb(169, 90, 48) !important;
+    color: white !important;
+    font-family: "Quicksand-Regular" !important;
+    border: 2px solid white; 
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+    width: 118%;
+    font-size: 112%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.buttonContactUs:hover{
+    background-color: white !important;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48) !important; 
+    cursor: pointer;
+}
+.headC{
+    margin-bottom: 3%;
+}

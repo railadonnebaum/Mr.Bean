@@ -1,0 +1,63 @@
+{
+  "name": "finalproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^5.0.0-beta3",
+    "bootstrap-modal": "^2.2.4",
+    "chat": "^1.0.8",
+    "cors": "^2.8.5",
+    "emailjs-com": "^2.6.4",
+    "express": "^4.17.1",
+    "mdbreact": "^5.0.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-cart-components": "^2.1.0",
+    "react-chat-widget": "^3.0.5",
+    "react-dom": "^17.0.1",
+    "react-faq-component": "^1.3.0",
+    "react-icons": "^4.2.0",
+    "react-image-magnify": "^2.7.4",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.2",
+    "react-scroll-up-button": "^1.6.4",
+    "react-star-rating-lite": "0.0.11",
+    "react-toast-component": "^1.4.18",
+    "react-toastify": "^7.0.3",
+    "redux": "^4.0.5",
+    "scroll": "^3.0.1",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

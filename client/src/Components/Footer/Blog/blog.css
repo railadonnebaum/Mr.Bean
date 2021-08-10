@@ -1,0 +1,26 @@
+.card{
+    height: 87% !important;
+    max-width: 70% !important;
+}
+.float-right{
+    margin-bottom: 20%;
+}
+.bodyBlog{
+    margin-left: 5% !important;
+    font-family: "Quicksand-Regular" !important;
+}
+.linkBlog:hover{
+    color: rgb(169, 90, 48);
+    border-bottom: 1px solid rgb(169, 90, 48);
+    cursor: pointer;
+}
+.readMoreBlog{
+    margin-top: 15% !important;
+}
+.card-title{
+    color: rgb(169, 90, 48);
+    font-family: "Quicksand-Medium" !important;
+}
+.float-right{
+    color: rgb(169, 90, 48);
+}

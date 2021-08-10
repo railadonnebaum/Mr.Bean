@@ -1,0 +1,13 @@
+.rcw-widget-container{
+  height: fit-content !important;
+  width: fit-content !important;
+}
+.rcw-launcher{
+background-color: rgb(255, 153, 0) !important;
+}
+.rcw-conversation-container .rcw-header {
+  background-color: rgb(253, 170, 45) !important;
+}
+.rcw-client .rcw-message-text {
+  background-color:rgb(253, 170, 45)
+}

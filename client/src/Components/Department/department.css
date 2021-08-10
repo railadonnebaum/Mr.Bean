@@ -1,0 +1,43 @@
+.department{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 11%;
+    z-index: 99;
+}
+.card{
+    margin:2%;  
+}
+.cardTitle{
+    color: rgb(169, 90, 48) !important;
+}
+.cardbody{
+    text-align: center;
+    font-family: "Quicksand-Regular" !important;
+}
+.addtocartbutton{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    border: 2px solid white; 
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+    width:100%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+}
+.addtocartbuttonOutOfStock{
+    background-color: grey;
+    font-family: "Quicksand-Regular" !important;
+    border: 0px solid white;
+    color: white;
+    padding-left: 17%;
+    padding-right: 17%;
+}
+.addtocartbutton:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.headD{
+    margin-bottom: 5% !important;
+}

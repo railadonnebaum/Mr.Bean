@@ -1,0 +1,136 @@
+
+.button1{
+    border-radius: 40px;
+    background: #fc8b449c;
+    margin-left: 73%;
+    margin-bottom: 40%;
+    cursor: pointer;
+}
+.button1:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24), 
+                0 17px 30px 0 rgba(255, 255, 255, 0.1);
+}
+.button2{
+    border-radius: 40px;
+    background: #875e37;
+    margin-right: 75%;
+    margin-bottom: 38%;
+    cursor: pointer;
+}
+.button2:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24), 
+                0 17px 30px 0 rgba(255, 255, 255, 0.1);
+}
+.button3{
+    border-radius: 40px;
+    background: #a86319e5;
+    margin-right: 60%;
+    margin-bottom: 10%;
+    cursor: pointer;
+}
+.button3:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24), 
+                0 17px 30px 0 rgba(255, 255, 255, 0.1);
+}
+.button4{
+    border-radius: 40px;
+    background:  #e9e6e5;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    cursor: pointer;
+}
+.button4:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24), 
+                0 17px 30px 0 rgba(255, 255, 255, 0.1);
+}
+.buttontitle1{
+    color:white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: "Quicksand-Medium" !important;
+    font-weight: bold !important;
+}
+
+.buttontitle2{
+    color: #392816;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: "Quicksand-Medium" !important;
+    font-weight: bold !important;
+    
+ }
+ .buttontitle3{
+    color:black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: "Quicksand-Medium" !important;
+    font-weight: bold !important;
+ }
+ .buttontitle4{
+   color:black;
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-left: 10px;
+   font-family: "Quicksand-Medium" !important;
+   font-weight: bold !important;
+ }
+ .carousel-item {
+    max-height: 590px;
+ }
+ .title1{
+   margin-bottom: 35%;
+   margin-right: -27%;
+   margin-left: 20%;
+   margin-top: -56%;
+   font-size: 83px;
+    font-family: "Aharoni" !important;
+    font-weight: bold;
+    -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+ }
+ .title2{
+   margin-bottom: 26%;
+    margin-right: 52%;
+    margin-top: -63%;
+    font-size: 79px;
+    font-family: "Aharoni" !important;
+    font-weight: bold;
+    -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+ }
+ .title3{
+    margin-bottom: 25%;
+    margin-right: 28%;
+    margin-top: -25%;
+    font-size: 65px;
+    font-family: "Aharoni" !important;
+    font-weight: 2;
+    -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+ }
+ .title4{
+    margin-bottom: 17%;
+    margin-right: 30%;
+   margin-top: -24%;
+   font-size: 67px;
+    font-family: 'Aharoni' !important;
+    font-weight: 2;
+    -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+ }
+

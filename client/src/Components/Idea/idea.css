@@ -1,0 +1,34 @@
+.ideaTitle{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:  rgb(169, 90, 48);
+    color: white;
+    text-align: center;
+    font-size: 180%;
+    font-weight: bold;
+    font-family: "Quicksand-Regular" !important;
+}
+.ideaBody{
+    margin-left: 40%;
+    margin-top: 2%;
+    font-family: "Quicksand-Regular" !important;
+}
+.bottonIdea{
+    background-color: rgb(169, 90, 48) !important;
+    color: white !important;
+    font-family: "Quicksand-Regular" !important;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+    border: 2px solid white; 
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+    font-size: larger;
+}
+.bottonIdea:hover{
+    background-color: white !important;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48) !important; 
+    cursor: pointer;
+}

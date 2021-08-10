@@ -1,0 +1,22 @@
+.buttonDelete{
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    border: 2px solid white; 
+    color: white;
+    padding: 2%;
+    width:48%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+}
+.buttonDelete:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.textModalDelete{
+    font-family: "Quicksand-Regular" !important;
+}
+.titleModalDelete{
+    font-family: "Quicksand-Bold" !important;
+    border-bottom:2px solid rgb(169, 90, 48) ;
+}

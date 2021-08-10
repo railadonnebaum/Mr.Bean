@@ -1,0 +1,118 @@
+.cart{
+  margin-top: 2%;
+}
+.cartEmpty{
+   margin-top: 3%;
+   margin-left: 10%;
+   font-size: 200% !important;
+   font-family: "Quicksand-Regular" !important;
+   color: rgb(169, 90, 48);
+}
+.buttonReturnToShop{
+    margin-left: 10%;
+    margin-top: 2%;
+    width: 19% !important;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    background-color: rgb(169, 90, 48);
+    color: white;
+    margin-bottom: 5%;
+    border: 2px solid white; 
+}
+.buttonCheckout{
+    background-color: rgb(169, 90, 48);
+    color: white;
+    margin-left: 71%;
+    width: 26% !important;
+    height: 10% !important;
+    margin-bottom: 1%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-size: 120%;
+    border: 2px solid white; 
+}
+.buttonCheckout:hover, buttonReturnToShop:hover {
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.buttonReturnToShop:hover {
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.linkbutton{
+    color: white;
+    font-family: "Quicksand-Regular" !important;
+}
+.linkCart{
+    font-size: 150%;
+    border-bottom:rgb(169, 90, 48) 2px solid;
+    color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+}
+.linkCart:hover{
+    color: black;
+    cursor: pointer;
+}
+.linkdivCart{
+    margin-left: 78%;
+    margin-bottom: 3%;
+}
+.link:hover{
+    color:black 3px solid;
+    cursor: pointer;
+}
+.block {
+    padding: 15px;
+}
+.contentSubTotalleft{
+    display:inline-block;
+    margin-right: 65%;
+    font-family: "Quicksand-Regular" !important;
+}
+.contentTotalleft{
+    display:inline-block;
+    margin-right: 61%;
+    margin-left: 3%;
+    font-family: "Quicksand-Regular" !important;
+}
+.contentShippingleft{
+    display:inline-block;
+    margin-right: 67%;
+    font-family: "Quicksand-Regular" !important;
+}
+.contentright{
+    display:inline-block;
+    margin-right: 2%;
+    font-family: "Quicksand-Regular" !important;
+}
+.shipingLabel{
+    margin-top: 2%;
+}
+.productTitle{
+   padding-left: 35% !important;
+   font-family: "Quicksand-Medium" !important;
+   color:rgb(169, 90, 48);
+}
+.priceTitle{
+   padding-left:153% ;
+   font-family: "Quicksand-Medium" !important;
+   color: rgb(169, 90, 48);
+}
+.quantityTitle{
+    padding-left:145% ;
+    font-family: "Quicksand-Medium" !important;
+    color: rgb(169, 90, 48);
+}
+.totalTitle{
+    padding-left:57% ;
+    font-family: "Quicksand-Medium" !important;
+    color: rgb(169, 90, 48);
+}
+.buttom{
+   padding: 3.5%;
+    color: white;
+}

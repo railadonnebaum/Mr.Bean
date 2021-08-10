@@ -1,0 +1,40 @@
+.titleColdCoffee{
+    background-color:  rgb(169, 90, 48);
+    color: white;
+    text-align: center;
+    font-size: 125%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 15%;
+    padding-left: 15%;
+    font-family: "Quicksand-Bold" !important;
+}
+.bodyColdCoffee{
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.divColdCoffee{
+    margin:2%;
+    font-family: "Quicksand-Regular" !important;
+}
+.subTitleColdCoffee{
+    margin-left: 2%;
+    border-bottom: rgb(169, 90, 48) solid 1px;
+    width: 33%;
+    font-family: "Quicksand-Medium" !important;
+    color: rgb(169, 90, 48);
+}
+.titleB{
+    margin-bottom: 5% !important;
+}
+.linkPage{
+    color: white;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.linkPage:hover{
+    color: white;
+    border-bottom: 1px solid white;
+    cursor: pointer;
+}

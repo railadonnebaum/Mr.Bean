@@ -1,0 +1,18 @@
+.scroll-to-top {
+  position: fixed;
+  bottom: 6.5rem;
+  right: 0.5rem;
+  animation: fadeIn 700ms ease-in-out 1s both;
+  cursor: pointer;
+  color: rgb(169, 90, 48);
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+ 

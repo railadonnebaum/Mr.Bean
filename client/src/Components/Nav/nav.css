@@ -1,0 +1,36 @@
+.nav{
+  z-index: 99 !important;
+  position: fixed !important; 
+}
+.logo{
+    height: 90%;
+    width: 90%;
+}
+.divlogo{
+    width: 10%;
+}
+.linkNav{
+  font-family: "Quicksand-Regular" !important;
+}
+.linkNav:focus {
+  border-bottom: 2px white solid;
+}
+.linkNav:hover {
+  border-bottom: 2px white solid;
+}
+.noteNav{
+  color: white;
+  margin-top: 53%;
+  font-size: 15px;
+}
+.customerName{
+  color: white;
+  margin-top: 6%;
+}
+.buttonLogout{
+  border: 0px;
+  background: none;
+}
+.navbar-nav{
+  margin-right: 4%;
+}

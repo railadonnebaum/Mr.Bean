@@ -1,0 +1,14 @@
+.imgItem{
+    width: 70%;
+    height: 90%;
+}
+.detailsItem{
+    padding-top: 2%;
+    font-family: "Quicksand-Regular" !important;
+}
+.buttonItem{
+    padding-top: 1%;
+}
+.iconTrash:hover{
+   cursor: pointer;
+}

@@ -1,0 +1,44 @@
+
+.subscribeButton{
+    margin-top: 0% !important;
+    max-height: 57%;
+    padding-top: 7% !important;
+    text-align: center !important;
+    padding-bottom: 4% !important;
+    margin-bottom: 0% !important;
+}
+.subscribeButton:hover{
+    cursor: pointer;
+}
+.footerLi{
+    text-align: left;
+    max-width: 70%;
+    font-family: "Quicksand-Regular" !important;
+}
+.footerbody{
+    margin-left: 10%;
+}
+.noteFooter{
+    font-family: "Quicksand-Regular" !important;
+    width: 10%;
+}
+.divFooter{
+    height: 10%;
+    padding-bottom: 0%;
+}
+.divEmailFooter{
+    font-family: "Quicksand-Regular" !important;
+}
+.subscribe{
+    background-color: rgb(169, 90, 48);
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: "Quicksand-Regular" !important;
+}
+.divFooterLink{
+    margin-right: 8%;
+}
+.linkFooter:hover{
+    border-bottom: solid 2px white;
+}

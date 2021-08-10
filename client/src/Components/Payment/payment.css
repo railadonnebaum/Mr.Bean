@@ -1,0 +1,33 @@
+.paymentBody{
+    margin-left: 15%;
+    font-family: "Quicksand-Regular" !important;
+}
+
+.selectPayment{
+    padding: 1%;
+}
+
+.buttonPayment{
+    background-color: rgb(169, 90, 48) !important;
+    color: white !important;
+    width: 100% !important;
+    font-size: large !important;
+    font-family: "Quicksand-Regular" !important;
+    border: 2px solid white; 
+}
+.buttonPayment:hover{
+    background-color: white !important;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48) !important; 
+    cursor: pointer;
+    border: 2px solid rgb(169, 90, 48); 
+}
+.paymentTitle{
+    color:  rgb(169, 90, 48);
+    margin-left: 1.2%;
+    margin-bottom: 1%;
+    font-size: 145% !important;
+    border-bottom: solid 2px  rgb(169, 90, 48);
+    width: 32%;
+    font-family: "Quicksand-Medium" !important;
+}

@@ -1,0 +1,18 @@
+.bodyTerms{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.divTerms{
+   font-family: "Quicksand-Regular" !important;
+   margin-bottom: 2%;
+}
+
+.subTitleTerms{
+   color: rgb(169, 90, 48);
+   font-family: "Quicksand-Medium" !important;
+   font-weight: 400 !important;
+}
+.titleTerms{
+   color: rgb(169, 90, 48);
+   font-family: "Quicksand-Bold" !important;
+}

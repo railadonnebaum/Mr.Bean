@@ -1,0 +1,16 @@
+.linkModalCart{
+    color:black;
+    font-family: "Quicksand-Regular" !important;
+}
+.linkModalCart:hover{
+   border-bottom: 2px solid rgb(169, 90, 48);
+   color: rgb(169, 90, 48);
+   cursor: pointer;
+}
+.modalCartDiv{
+    font-family: "Quicksand-Regular" !important;
+    color: rgb(169, 90, 48);
+}
+.modalCart{
+    margin-top: 10px;     
+}

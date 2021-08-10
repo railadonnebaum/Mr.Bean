@@ -1,0 +1,90 @@
+.titleCheckout{
+    margin-top: 5%;
+    font-family: "Quicksand-Medium" !important;
+    color: rgb(169, 90, 48);
+}
+.billingDetails{
+    width:500%;
+    font-family: "Quicksand-Regular" !important;
+}
+.noteRequired{
+    color: red;
+    margin-left: 2%;
+}
+.buttonCheckOut{
+    background-color: rgb(169, 90, 48);
+    color: white;
+    margin-top: 4%;
+    width: 100% !important;
+    height: 10% !important;
+    margin-bottom: 4%;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+    font-size: 120%;
+    border: 2px solid white; 
+    font-family: "Quicksand-Regular" !important;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+}
+.buttonCheckOut:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.textarea{
+    width: 95% !important;
+    margin-left: 2.5% !important;
+}
+.block{
+    padding: 7%;
+}
+.smallblock {
+    padding: 7%;
+}
+.strong{
+    font-family: "Quicksand-Medium" !important;
+}
+.InsideContentRight{
+    display:inline-block;
+    margin-top: 2%;
+    font-family: "Quicksand-Regular" !important;
+    width: 36%;
+}
+.InsideContentLeft{
+    display:inline-block;
+    margin-right:34%;
+    margin-left: 5%;
+}
+.contentSubTotalleft{
+    display:inline-block;
+}
+.contentTotalleft{
+    display:inline-block;
+    margin-right: 58% !important;
+    margin-left: 1% !important;
+}
+.contentShippingleft{
+    display:inline-block;
+    margin-right: 65% !important;
+}
+.contentright{
+    display:inline-block;
+}
+.termsCheckBox{
+    margin-left: -4%;
+    margin-top: 2%;
+}
+.linkCheckOut:hover{
+    color: rgb(169, 90, 48);
+    border-bottom: 1px solid rgb(169, 90, 48);
+    cursor: pointer;
+}
+.linkCheckOut{
+    color: rgb(169, 90, 48);
+}
+.terms{
+    margin-left: -4%;
+}
+.a{
+    width: 100%;
+}

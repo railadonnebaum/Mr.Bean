@@ -1,0 +1,35 @@
+.product-img{
+    margin-right: 50%;
+}
+.amount{
+   margin: 1%;
+   width: 26%;
+}
+.subTitleProduct{
+    color:  rgb(169, 90, 48);
+}
+.buttonProduct{
+    width: 38%;
+    background-color: rgb(169, 90, 48);
+    font-family: "Quicksand-Regular" !important;
+    border: 2px solid white;
+    color: white;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+    margin-top: 1%;
+}
+.buttonProduct:hover{
+    background-color: white;
+    color: rgb(169, 90, 48) !important;
+    border: 2px solid rgb(169, 90, 48); 
+    cursor: pointer;
+}
+.disabledButtonProduct{
+    width: 38%;
+    font-weight: bold;
+}
+.divProduct{
+    font-family: "Quicksand-Regular" !important;
+    padding-top: 1% !important;
+    padding-left: 15% !important;
+    margin-bottom: 2%;
+}

@@ -1,0 +1,22 @@
+.cardOpinion{
+    text-align: left !important;
+}
+.cardFooter{
+    text-align: right !important;
+    margin-right: 1%;
+    color: rgb(169, 90, 48);
+}
+.iconOpinion{
+    margin-left: 1%;
+    margin-right: 0.25%;
+}
+.iconButton{
+    padding-bottom: 0.60%;
+    background-color: white;
+    border:0px;
+    cursor: pointer;
+    color:rgb(169, 90, 48);
+}
+.pOpinion{
+    margin-bottom: 0% !important;
+}
