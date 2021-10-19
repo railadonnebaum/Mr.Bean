@@ -4,6 +4,7 @@
 The site is ‘user friendly’, allowing the customer to find precisely the right product he/she is looking for.
 All my data is stored in the cloud, using mongo DB.
 
+
 Instructions for running my project: 
 •	Install modules: in each terminal, one must run the following command: npm install
 •	One must open two terminals, one in ‘client’ file, one in ‘server’ file.
